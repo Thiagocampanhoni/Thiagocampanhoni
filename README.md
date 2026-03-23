@@ -2,7 +2,7 @@
 Desenvolvedor Full Stack e mobile Sou estudante de Informática para Internet na QI Faculdade e Escola Técnica, com previsão de conclusão em agosto de 2026. Atualmente, foco meu aprendizado no desenvolvimento Full Stack e Mobile, buscando criar soluções que sejam eficientes e escaláveis. Recentemente, fui reconhecido como Aluno Destaque na disciplina de Desenvolvimento de Aplicativos I, o que reflete meu comprometimento e paixão por transformar lógica em código funcional. Tenho experiência prática com tecnologias como Java, Python, Flutter e SQL, sempre buscando aprender novas ferramentas para resolver problemas complexos. 
 🌍 Moro em Gravataí - RS 
 ✉️ Você pode entrar em contato comigo em: campanhonithiago@gmail.com
-🧠 Atualmente estou aprendendo: Aperfeiçoamento em Java, Python e Kotlin para integração com bancos de dados relacionais. 
+🧠 Atualmente estou aprendendo: Java, Python e Kotlin para integração com bancos de dados relacionais. 
 👥 Pretendo colaborar em Projetos Open Source em Flutter ou automatizações em Python. 
 💬 Pergunte-me sobre: Fui premiado como Aluno Destaque na disciplina de Desenvolvimento de Aplicativos 1 em 2025 pela QI Faculdade e Escola Técnica .
 
